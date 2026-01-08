@@ -1,36 +1,22 @@
-# DOCKER TEMPLATE
+# Extra project
 
-## BASE Template
 
-You can use this template to create many repositories and have the default microservices at your disposal when developing your webapp.
+## Opdracht 1
 
-## Start 
-**Follow these steps to make it work for your project**
+Importeer de database.sql file in de database.
 
-### Use Template
+## Opdracht 2
 
-1. Press the green button that says `Use this template`
-2. Choose `Create a new repository`
-3. Now give your repo a correct name, i.e. myfirstproject
-4. Clone the project to your development machine
+Toon alle categorieen op het scherm
 
-### Set your project
+## Opdracht 3
 
-1. Change the `.env`-file to match your project database name:
+Toon alle producten op het scherm met de naam van de categorie
 
-### Launch
+## Opdracht 4
 
-1. Launch your services/contaienrs by opening a `terminal` within the folder of your project
-2. Write: `docker compose up`
+Toon alle bestellingen op het scherm met de naam van de product en de naam van de categorie
 
-## Available applications
+## Opdracht 5
 
-### Web app
-To access your webapp go to http://localhost
-### PhpMyAdmin
-
-To access your mysql database UI called PhpMyAdmin, go to http://localhost:8000
-
-### Mailhog
-To access your mail UI called Mailhog, go to http://localhost:8025
-
+Toon alle producten op het scherm
