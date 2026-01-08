@@ -27,3 +27,11 @@
 1. Maak een bestand aan genaamd `orders_index.php`
 2. Toon alle bestellingen in een tabel. 
 3. Zorg ervoor dat je de naam van de producten, het aantal producten en de totaalprijs en de categorie kunt zien bij de bestelling.
+
+## Opdracht 5 - Zoeken in categorieën
+
+1. Maak een bestand aan genaamd `search_categories.php` of zet het formulier in `categories_index.php`
+2. Maak een formulier om een categorie te zoeken.
+3. Verwerk het formulier met een POST request.
+4. Toon alle producten die bij de gevonden categorie horen in een tabel.
+5. Zorg ervoor dat je de naam van de categorie kunt zien bij het product.
