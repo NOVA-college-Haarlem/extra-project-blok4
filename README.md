@@ -1,22 +1,29 @@
 # Extra project
 
+## Opdracht 1 - Fork en Clone project
 
-## Opdracht 1
+1. Fork de repository [https://github.com/NOVA-college-Haarlem/extra-project-blok4](https://github.com/NOVA-college-Haarlem/extra-project-blok4).
+2. Clone de repository naar je projecten map (C:\projecten) `git clone https://github.com/NOVA-college-Haarlem/extra-project-blok4.git`
+3. Open het project in VS Code.
 
-Importeer de database.sql file in de database.
+## Opdracht 2 - Database 
 
-## Opdracht 2
+1. Vul de database met de data uit het bestand `database.sql`
+2. Controleer of de data correct is ingevoegd.
 
-Toon alle categorieen op het scherm
+## Opdracht 3 - Categorie overzicht
 
-## Opdracht 3
+1. Maak een bestand aan genaamd `categories_index.php`
+2. Toon alle categorieen in een tabel. 
 
-Toon alle producten op het scherm met de naam van de categorie
+## Opdracht 3 - Producten overzicht
 
-## Opdracht 4
+1. Maak een bestand aan genaamd `products_index.php`
+2. Toon alle producten in een tabel. 
+3. Zorg ervoor dat je de naam van de categorie kunt zien bij het product.
 
-Toon alle bestellingen op het scherm met de naam van de product en de naam van de categorie
+## Opdracht 4 - Bestellingen overzicht
 
-## Opdracht 5
-
-Toon alle producten op het scherm
+1. Maak een bestand aan genaamd `orders_index.php`
+2. Toon alle bestellingen in een tabel. 
+3. Zorg ervoor dat je de naam van de producten, het aantal producten en de totaalprijs en de categorie kunt zien bij de bestelling.
